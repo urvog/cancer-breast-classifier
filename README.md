@@ -13,3 +13,5 @@ Objetivo:
 Comprender el conjunto de datos y la limpieza (si es necesario).
 Cree un modelo de clasificación para predecir si el tipo de cáncer es maligno o benigno.
 También ajuste los hiperparámetros si es necesario
+
+Prueba
