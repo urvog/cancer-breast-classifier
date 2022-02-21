@@ -6,12 +6,12 @@ Los desafíos clave contra su detección es cómo clasificar los tumores en mali
 
 Dataset:
 
-Este conjunto de datos ha sido referido desde Kaggle. https://www.kaggle.com/yasserh/breast-cancer-dataset?select=breast-cancer.csv
+Este conjunto de datos ha sido referido desde Kaggle. 
+
+https://www.kaggle.com/yasserh/breast-cancer-dataset?select=breast-cancer.csv
 
 Objetivo:
 
 Comprender el conjunto de datos y la limpieza (si es necesario).
 Cree un modelo de clasificación para predecir si el tipo de cáncer es maligno o benigno.
-También ajuste los hiperparámetros si es necesario
-
-Prueba
+También ajuste los hiperparámetros si es necesario.
