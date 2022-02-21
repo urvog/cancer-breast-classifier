@@ -1,4 +1,4 @@
-# Clasificador de Cancer de mama utilizando KNN.
+# Clasificador de Cáncer de Mama utilizando KNN.
 
 Descripción: El cáncer de mama es el cáncer más común entre las mujeres en el mundo. Representa el 25 % de todos los casos de cáncer y afectó a más de 2,1 millones de personas solo en 2015. Comienza cuando las células en el seno comienzan a crecer sin control. Estas células generalmente forman tumores que se pueden ver a través de rayos X o sentir como bultos en el área del seno.
 
